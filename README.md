@@ -48,12 +48,12 @@ cd search-pulse
 
 2. Copy to extensions directory:
 ```bash
-cp -r search-pulse@rezkycodes@gmail.com ~/.local/share/gnome-shell/extensions/
+cp -r search-pulse@rezkycodes ~/.local/share/gnome-shell/extensions/
 ```
 
 3. Enable the extension:
 ```bash
-gnome-extensions enable search-pulse@rezkycodes@gmail.com
+gnome-extensions enable search-pulse@rezkycodes
 ```
 
 4. Restart GNOME Shell:
